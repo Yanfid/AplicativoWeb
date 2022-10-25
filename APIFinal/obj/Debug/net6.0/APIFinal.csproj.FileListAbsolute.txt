@@ -1,0 +1,278 @@
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\appsettings.Development.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\appsettings.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\APIFinal.exe
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\APIFinal.deps.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\APIFinal.runtimeconfig.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\APIFinal.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\APIFinal.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Humanizer.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.csproj.AssemblyReference.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.AssemblyInfoInputs.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.AssemblyInfo.cs
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.csproj.CoreCompileInputs.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.MvcApplicationPartsAssemblyInfo.cs
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\staticwebassets.build.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\staticwebassets.development.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\scopedcss\bundle\APIFinal.styles.css
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.csproj.CopyComplete
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\refint\APIFinal.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.genruntimeconfig.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinal\APIFinal\obj\Debug\net6.0\ref\APIFinal.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\appsettings.Development.json
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\appsettings.json
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\APIFinal.exe
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\APIFinal.deps.json
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\APIFinal.runtimeconfig.json
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\APIFinal.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\APIFinal.pdb
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Humanizer.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Logic.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Models.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Repository.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Logic.pdb
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Models.pdb
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Repository.pdb
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.csproj.AssemblyReference.cache
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.AssemblyInfoInputs.cache
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.AssemblyInfo.cs
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.csproj.CoreCompileInputs.cache
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.MvcApplicationPartsAssemblyInfo.cs
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\staticwebassets.build.json
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\staticwebassets.development.json
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\scopedcss\bundle\APIFinal.styles.css
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.csproj.CopyComplete
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\refint\APIFinal.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.pdb
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\APIFinal.genruntimeconfig.cache
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\obj\Debug\net6.0\ref\APIFinal.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Contraseña.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\APIFinal\bin\Debug\net6.0\Contraseña.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\appsettings.Development.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\appsettings.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\APIFinal.exe
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\APIFinal.deps.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\APIFinal.runtimeconfig.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\APIFinal.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\APIFinal.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Humanizer.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Contraseña.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Logic.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Models.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Repository.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Logic.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Contraseña.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Models.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\Repository.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.csproj.AssemblyReference.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.AssemblyInfoInputs.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.AssemblyInfo.cs
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.csproj.CoreCompileInputs.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.MvcApplicationPartsAssemblyInfo.cs
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\staticwebassets.build.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\staticwebassets.development.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\scopedcss\bundle\APIFinal.styles.css
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.csproj.CopyComplete
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\refint\APIFinal.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.genruntimeconfig.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\obj\Debug\net6.0\ref\APIFinal.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\APIFinal\bin\Debug\net6.0\FluentAssertions.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\appsettings.Development.json
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\appsettings.json
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\APIFinal.exe
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\APIFinal.deps.json
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\APIFinal.runtimeconfig.json
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\APIFinal.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\APIFinal.pdb
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\FluentAssertions.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Humanizer.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Contraseña.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Logic.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Models.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Repository.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Logic.pdb
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Contraseña.pdb
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Models.pdb
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\bin\Debug\net6.0\Repository.pdb
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.csproj.AssemblyReference.cache
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.AssemblyInfoInputs.cache
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.AssemblyInfo.cs
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.csproj.CoreCompileInputs.cache
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.MvcApplicationPartsAssemblyInfo.cs
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.MvcApplicationPartsAssemblyInfo.cache
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\staticwebassets.build.json
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\staticwebassets.development.json
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\scopedcss\bundle\APIFinal.styles.css
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.csproj.CopyComplete
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\refint\APIFinal.dll
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.pdb
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\APIFinal.genruntimeconfig.cache
+D:\instituto continental\6to ciclo\APIFinalv2\APIFinal\obj\Debug\net6.0\ref\APIFinal.dll

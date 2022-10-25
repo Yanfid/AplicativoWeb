@@ -1,0 +1,46 @@
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\bin\Debug\net6.0\Contraseña.deps.json
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\bin\Debug\net6.0\Contraseña.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\bin\Debug\net6.0\Contraseña.pdb
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\obj\Debug\net6.0\Contraseña.csproj.AssemblyReference.cache
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\obj\Debug\net6.0\Contraseña.GeneratedMSBuildEditorConfig.editorconfig
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\obj\Debug\net6.0\Contraseña.AssemblyInfoInputs.cache
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\obj\Debug\net6.0\Contraseña.AssemblyInfo.cs
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\obj\Debug\net6.0\Contraseña.csproj.CoreCompileInputs.cache
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\obj\Debug\net6.0\Contraseña.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\obj\Debug\net6.0\refint\Contraseña.dll
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\obj\Debug\net6.0\Contraseña.pdb
+D:\instituto continental\6to ciclo\APIFinal\APIFinal\Contraseña\obj\Debug\net6.0\ref\Contraseña.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\bin\Debug\net6.0\Contraseña.deps.json
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\bin\Debug\net6.0\Contraseña.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\bin\Debug\net6.0\Contraseña.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.csproj.AssemblyReference.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.AssemblyInfoInputs.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.AssemblyInfo.cs
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.csproj.CoreCompileInputs.cache
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\obj\Debug\net6.0\refint\Contraseña.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\obj\Debug\net6.0\ref\Contraseña.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\bin\Debug\net6.0\Models.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\bin\Debug\net6.0\Repository.dll
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\bin\Debug\net6.0\Models.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\bin\Debug\net6.0\Repository.pdb
+D:\Jetrxz\Jetrxz Conti\Proyectos Visual Studio\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.csproj.CopyComplete
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\bin\Debug\net6.0\Contraseña.deps.json
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\bin\Debug\net6.0\Contraseña.dll
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\bin\Debug\net6.0\Contraseña.pdb
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\bin\Debug\net6.0\Models.dll
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\bin\Debug\net6.0\Repository.dll
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\bin\Debug\net6.0\Models.pdb
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\bin\Debug\net6.0\Repository.pdb
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.csproj.AssemblyReference.cache
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.GeneratedMSBuildEditorConfig.editorconfig
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.AssemblyInfoInputs.cache
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.AssemblyInfo.cs
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.csproj.CoreCompileInputs.cache
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.csproj.CopyComplete
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.dll
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\obj\Debug\net6.0\refint\Contraseña.dll
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\obj\Debug\net6.0\Contraseña.pdb
+D:\instituto continental\6to ciclo\APIFinalv2\Contraseña\obj\Debug\net6.0\ref\Contraseña.dll
